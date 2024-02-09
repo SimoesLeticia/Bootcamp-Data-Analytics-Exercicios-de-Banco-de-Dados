@@ -1,4 +1,4 @@
-# Bootcamp-Data-Analytics-Exercícios-de-Banco-de-Dados
+# Bootcamp Data Analytics - Exercícios de Banco de Dados
 
 Este repositório contém a resolução dos exercícios de banco de dados do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/).
 
