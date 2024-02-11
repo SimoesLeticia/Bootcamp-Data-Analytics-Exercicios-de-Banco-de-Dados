@@ -14,11 +14,13 @@ Neste bootcamp, estamos explorando os fundamentos de banco de dados, aprendendo 
 
 ## Pré-requisitos
 
-Instalar dependências:
+Antes de prosseguir, certifique-se de ter instalado a biblioteca Pandas. Você pode instalar as dependências necessárias executando o seguinte comando:
 
 ```
 pip install -r requirements.txt
 ```
+
+Além disso, para garantir que a criação das tabelas e a manipulação dos dados funcionem corretamente, é importante executar os exercícios na ordem correta.
 
 ## Contribuição
 
