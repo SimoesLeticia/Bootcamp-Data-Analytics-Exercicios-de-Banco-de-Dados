@@ -35,7 +35,7 @@ clientes = [
     ('Gabriel Ribeiro', 36, 440.15),
     ('Sara Santos', 26, 2300.00),
     ('Daniel Lima', 34, 2900.75),
-    ('Amanda Rodrigues', 39, 3400.25),
+    ('Amanda Rodrigues', 18, 3400.25),
     ('Marcos Ferreira', 42, 3600.50),
     ('Patrícia Silva', 37, 3100.00),
     ('Luisa Oliveira', 41, 3800.75),
