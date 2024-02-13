@@ -6,7 +6,7 @@ Este repositório contém a resolução dos exercícios de banco de dados do Boo
 
 Neste bootcamp, estamos explorando os fundamentos de banco de dados, aprendendo como manipular dados, executar consultas e realizar análises. Os exercícios incluem tarefas como criação de tabelas, inserção de dados e consultas complexas.
 
-## Estrutura
+## Estrutura do Repositório
 
 O repositório está estruturado da seguinte forma:
 
