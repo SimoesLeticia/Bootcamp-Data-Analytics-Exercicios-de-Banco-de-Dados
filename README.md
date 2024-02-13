@@ -25,3 +25,5 @@ Além disso, para garantir que a criação das tabelas e a manipulação dos dad
 ## Contribuição
 
 Contribuições são bem-vindas! Se você identificar algum erro nos scripts ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+**Divirta-se aprendendo e analisando dados!** 🚀📊
