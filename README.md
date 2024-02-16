@@ -1,5 +1,4 @@
-# Bootcamp Data Analytics - Exercícios de Banco de Dados
-
+# Bootcamp Data Analytics - Exercícios de Banco de Dados 
 Este repositório contém a resolução dos exercícios de banco de dados do Bootcamp Data Analytics [WoMakersCode](https://womakerscode.org/).
 
 ## Descrição
@@ -35,3 +34,5 @@ Além disso, para garantir que a criação das tabelas e a manipulação dos dad
 Contribuições são bem-vindas! Se você identificar algum erro nos scripts ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 **Divirta-se aprendendo e analisando dados!** 🚀📊
+
+<a href="https://womakerscode.org"><img src="https://womakerscode.org/wp-content/uploads/2023/05/womakerscode-icone.png" alt="Womakerscode" width="50" height="44"></a>
