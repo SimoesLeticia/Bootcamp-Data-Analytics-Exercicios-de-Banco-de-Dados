@@ -2,7 +2,7 @@
 import sqlite3
 import pandas as pd
 
-caminho_bd = './data/bootcampDB.db'
+caminho_bd = '../data/bootcampDB.db'
 
 def conectar_bd():
     try:
